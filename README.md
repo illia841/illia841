@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a href="https://discord.gg/KBMvHJjXMx"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illia841)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illia841&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=illia841&show_icons=true&theme=github_dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illia841&layout=compact&theme=github_dark)
 
 <!--
 **illia841/illia841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
