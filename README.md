@@ -3,6 +3,7 @@
 <h3 align="center">Student, programmer from Ukraine 🇺🇦</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <a href="https://discord.gg/KBMvHJjXMx"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=illia841&show_icons=true&theme=github_dark)
